@@ -1,6 +1,6 @@
 *, *::before, *::after {
     box-sizing: border-box;
-    font-family: 'Franklin Gothic Medium' sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: normal;
 }
 
